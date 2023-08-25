@@ -8,6 +8,7 @@ pageextension 50100 "dev Purch. Invoice Subform Ext" extends "Purch. Invoice Sub
             {
                 ApplicationArea = All;
                 Caption = 'Comment';
+                ToolTip = 'Specifies comments.';
             }
         }
     }

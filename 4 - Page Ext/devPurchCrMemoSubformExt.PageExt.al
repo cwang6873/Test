@@ -8,6 +8,7 @@ pageextension 50101 "dev Purch.Cr. Memo Subform Ext" extends "Purch. Cr. Memo Su
             {
                 ApplicationArea = All;
                 Caption = 'Comment';
+                ToolTip = 'Specifies comments.';
             }
         }
     }
