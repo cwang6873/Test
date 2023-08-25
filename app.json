@@ -1,0 +1,27 @@
+{
+    "id": "4b99b70f-1217-4a53-ad96-5ba668b395b4",
+    "name": "Chris On Prem Test",
+    "publisher": "Chris Wang",
+    "brief": "Chris On Prem Test",
+    "description": "Chris On Prem Test",
+    "version": "1.0.0.1",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "platform": "19.0.0.0",
+    "application": "21.0.0.0",
+    "idRange": {
+        "from": 50100,
+        "to": 50150
+    },
+    "resourceExposurePolicy": {
+        "applyToDevExtension": true, 
+        "allowDebugging": true, 
+        "allowDownloadingSource": false, 
+        "includeSourceInSymbolFile": false
+    },
+    "target": "OnPrem"
+}
+
